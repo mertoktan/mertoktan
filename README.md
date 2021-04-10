@@ -19,3 +19,8 @@ Here are some ideas to get you started:
   <img align="center" src= "https://github-readme-stats.vercel.app/api?username=mertoktan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertoktan&layout=compact"/>
 </p>
+<p align="right">
+<a href="https://twitter.com/mertoktan99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mertoktan99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mertoktan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mertoktan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mertoktanfb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mertoktanfb" height="30" width="40" /></a>
+</p>
